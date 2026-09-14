@@ -1,7 +1,7 @@
 # Bizus Gpt
 Biblioteca original de prompts, preservada como aplicativo instalável.
 ## Publicação
-Em Settings → Pages, selecione GitHub Actions como Source. O workflow Publicar Bizus Gpt publica a cada alteração na main; se necessário execute Run workflow em Actions após ativar Pages.
+O GitHub Pages existente publica a branch main, pasta raiz. Todos os recursos e ícones estão no repositório; nenhuma compilação é necessária. Cada alteração na main dispara a publicação.
 ## Instalar no celular
 Abra o endereço HTTPS exibido pelo GitHub Pages.
 - Android/Chrome: menu → Instalar aplicativo ou Adicionar à tela inicial; o botão Instalar app aparece quando o navegador permitir.
