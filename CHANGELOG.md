@@ -1,5 +1,12 @@
 # Histórico
 
+## 2026-09-28
+- Adicionados 3 atalhos informais no método P.O.L.I.C.I.A.: /feature-regression-recovery (ID 2283), /targeted-record-correction (ID 2284) e /modal-dismissal-trace (ID 2285).
+- Total: 2.285 registros. Os 2.282 anteriores, IDs, categorias, interface e chaves de favoritos foram preservados integralmente.
+- Os três itens são templates editoriais, não comandos nativos nem lançamentos de fornecedor; não exigem fonte externa.
+- Validados: sintaxe JavaScript, esquema de campos, IDs e comandos únicos, preservação byte a byte dos registros anteriores e busca por comando/categoria/tipo.
+- Cache da PWA atualizado de v3 para v4.
+
 ## 2026-09-21
 - Adicionados 3 atalhos informais, no método P.O.L.I.C.I.A.: /answer-key-consistency (ID 2280), /empty-results-diagnostic (ID 2281) e /untrusted-content-boundary (ID 2282).
 - Total: 2.282 registros. Os 2.279 anteriores, IDs, categorias, interface e chaves de favoritos foram preservados integralmente.

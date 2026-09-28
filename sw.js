@@ -1,4 +1,4 @@
-const CACHE='bizus-gpt-v3';
+const CACHE='bizus-gpt-v4';
 const ROOT=new URL('./',self.location).href;
 const ASSETS=['./','./index.html','./pwa.js','./manifest.webmanifest','./icons/icon-192.png','./icons/icon-512.png'];
 self.addEventListener('install',e=>{e.waitUntil(caches.open(CACHE).then(c=>c.addAll(ASSETS)));});
