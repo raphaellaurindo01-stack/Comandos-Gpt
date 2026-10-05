@@ -1,5 +1,12 @@
 # Histórico
 
+## 2026-10-05
+- Adicionados 3 atalhos informais no método P.O.L.I.C.I.A.: /source-coverage-audit (ID 2286), /professional-readiness-gap (ID 2287) e /media-size-budget (ID 2288).
+- Total: 2.288 registros. Os 2.285 anteriores, IDs, categorias, interface e chaves de favoritos foram preservados integralmente.
+- Os itens são templates editoriais, não comandos nativos nem lançamentos de fornecedor. Não há alegações externas a verificar.
+- Validados: sintaxe JavaScript, esquema de campos, IDs e comandos únicos, preservação byte a byte dos registros anteriores e busca por comando/categoria/tipo.
+- Cache da PWA atualizado de v4 para v5.
+
 ## 2026-09-28
 - Adicionados 3 atalhos informais no método P.O.L.I.C.I.A.: /feature-regression-recovery (ID 2283), /targeted-record-correction (ID 2284) e /modal-dismissal-trace (ID 2285).
 - Total: 2.285 registros. Os 2.282 anteriores, IDs, categorias, interface e chaves de favoritos foram preservados integralmente.
