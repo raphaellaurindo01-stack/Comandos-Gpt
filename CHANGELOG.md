@@ -1,5 +1,12 @@
 # Histórico
 
+## 2026-10-12
+- Adicionados 3 atalhos informais no método P.O.L.I.C.I.A.: /layout-overlap-audit (ID 2289), /download-handoff-check (ID 2290) e /requirement-implementation-matrix (ID 2291).
+- Total: 2.291 registros. Os 2.288 anteriores, IDs, categorias, interface e chaves de favoritos foram preservados integralmente.
+- Os itens são templates editoriais, não comandos nativos nem lançamentos de fornecedor. Não há alegações externas a verificar.
+- Validados: sintaxe JavaScript, esquema de campos, IDs e comandos únicos, preservação byte a byte dos registros anteriores e localização dos novos comandos na busca.
+- Cache da PWA atualizado de v5 para v6.
+
 ## 2026-10-05
 - Adicionados 3 atalhos informais no método P.O.L.I.C.I.A.: /source-coverage-audit (ID 2286), /professional-readiness-gap (ID 2287) e /media-size-budget (ID 2288).
 - Total: 2.288 registros. Os 2.285 anteriores, IDs, categorias, interface e chaves de favoritos foram preservados integralmente.
