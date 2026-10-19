@@ -1,5 +1,12 @@
 # Histórico
 
+## 2026-10-19
+- Adicionados 3 atalhos informais no método P.O.L.I.C.I.A.: /interruption-resume-checkpoint (ID 2292), /template-fidelity-edit (ID 2293) e /legal-authority-date-audit (ID 2294).
+- Total: 2.294 registros. Os 2.291 anteriores, IDs, categorias, interface e chaves de favoritos foram preservados integralmente.
+- Os itens são templates editoriais, não comandos nativos nem lançamentos de fornecedor. Não há alegações externas de funcionalidade a verificar; o template jurídico orienta confirmar cada fonte primária oficial no uso concreto.
+- Validados: sintaxe JavaScript, esquema de campos, IDs e comandos únicos, preservação byte a byte dos registros anteriores e localização dos novos comandos na busca.
+- Cache da PWA atualizado de v6 para v7.
+
 ## 2026-10-12
 - Adicionados 3 atalhos informais no método P.O.L.I.C.I.A.: /layout-overlap-audit (ID 2289), /download-handoff-check (ID 2290) e /requirement-implementation-matrix (ID 2291).
 - Total: 2.291 registros. Os 2.288 anteriores, IDs, categorias, interface e chaves de favoritos foram preservados integralmente.
