@@ -1,5 +1,12 @@
 # Histórico
 
+## 2026-10-26
+- Adicionados 3 atalhos informais no método P.O.L.I.C.I.A.: /institutional-memory-report (ID 2295), /face-identity-preservation-check (ID 2296) e /evidence-to-policy-brief (ID 2297).
+- Total: 2.297 registros. Os 2.294 anteriores, IDs, categorias, interface e chaves de favoritos foram preservados integralmente.
+- Os itens são templates editoriais, não comandos nativos nem lançamentos de fornecedor. Não há alegações externas de funcionalidade a verificar.
+- Validados: sintaxe JavaScript, esquema de campos, IDs e comandos únicos, preservação byte a byte dos registros anteriores, busca e serialização JSON/CSV dos novos itens.
+- Cache da PWA atualizado de v7 para v8.
+
 ## 2026-10-19
 - Adicionados 3 atalhos informais no método P.O.L.I.C.I.A.: /interruption-resume-checkpoint (ID 2292), /template-fidelity-edit (ID 2293) e /legal-authority-date-audit (ID 2294).
 - Total: 2.294 registros. Os 2.291 anteriores, IDs, categorias, interface e chaves de favoritos foram preservados integralmente.
