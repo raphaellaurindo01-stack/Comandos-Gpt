@@ -1,5 +1,12 @@
 # Histórico
 
+## 2026-11-02
+- Adicionados 3 atalhos informais no método P.O.L.I.C.I.A.: /doctrine-relationship-boundary (ID 2298), /document-image-layout-audit (ID 2299) e /institutional-routing-check (ID 2300).
+- Total: 2.300 registros. Os 2.297 anteriores, IDs, categorias, interface e chaves de favoritos foram preservados integralmente.
+- Os itens são templates editoriais, não comandos nativos nem lançamentos de fornecedor. Não há alegações externas de funcionalidade a verificar; os prompts exigem fonte competente no uso concreto.
+- Validados: sintaxe JavaScript, esquema de campos, IDs e comandos únicos, preservação byte a byte dos registros anteriores, busca e serialização JSON/CSV dos novos itens.
+- Cache da PWA atualizado de v8 para v9.
+
 ## 2026-10-26
 - Adicionados 3 atalhos informais no método P.O.L.I.C.I.A.: /institutional-memory-report (ID 2295), /face-identity-preservation-check (ID 2296) e /evidence-to-policy-brief (ID 2297).
 - Total: 2.297 registros. Os 2.294 anteriores, IDs, categorias, interface e chaves de favoritos foram preservados integralmente.
