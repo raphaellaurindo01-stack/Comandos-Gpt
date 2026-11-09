@@ -1,5 +1,12 @@
 # Histórico
 
+## 2026-11-09
+- Adicionados 3 atalhos informais no método P.O.L.I.C.I.A.: /supervised-agent-charter (ID 2301), /official-source-change-monitor (ID 2302) e /agent-proposal-review (ID 2303).
+- Total: 2.303 registros. Os 2.300 anteriores, IDs, categorias, interface e chaves de favoritos foram preservados integralmente.
+- Os itens são templates editoriais, não comandos nativos nem lançamentos de fornecedor. Não há alegações externas de funcionalidade a verificar; os prompts exigem fontes oficiais e controles técnicos no uso concreto.
+- Validados: sintaxe JavaScript, esquema de campos, IDs e comandos únicos, preservação byte a byte dos registros anteriores, busca e serialização JSON/CSV dos novos itens.
+- Cache da PWA atualizado de v9 para v10.
+
 ## 2026-11-02
 - Adicionados 3 atalhos informais no método P.O.L.I.C.I.A.: /doctrine-relationship-boundary (ID 2298), /document-image-layout-audit (ID 2299) e /institutional-routing-check (ID 2300).
 - Total: 2.300 registros. Os 2.297 anteriores, IDs, categorias, interface e chaves de favoritos foram preservados integralmente.
