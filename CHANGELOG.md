@@ -1,5 +1,12 @@
 # Histórico
 
+## 2026-11-16
+- Adicionados 3 atalhos informais no método P.O.L.I.C.I.A.: /format-conversion-fidelity-audit (ID 2304), /assessment-package-separation (ID 2305) e /revoked-source-successor-trace (ID 2306).
+- Total: 2.306 registros. Os 2.303 anteriores, IDs, categorias, interface e chaves de favoritos foram preservados integralmente.
+- Os itens são templates editoriais, não comandos nativos nem lançamentos de fornecedor. Não há alegações externas de funcionalidade a verificar; o template de vigência exige fontes oficiais primárias no uso concreto.
+- Validados: sintaxe JavaScript, esquema de campos, IDs e comandos únicos, preservação byte a byte dos registros anteriores, busca e serialização JSON/CSV dos novos itens.
+- Cache da PWA atualizado de v10 para v11.
+
 ## 2026-11-09
 - Adicionados 3 atalhos informais no método P.O.L.I.C.I.A.: /supervised-agent-charter (ID 2301), /official-source-change-monitor (ID 2302) e /agent-proposal-review (ID 2303).
 - Total: 2.303 registros. Os 2.300 anteriores, IDs, categorias, interface e chaves de favoritos foram preservados integralmente.
